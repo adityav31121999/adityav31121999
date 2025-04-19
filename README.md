@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Vishwakarma and this is my username @adityav31121999
+- 👋 Hi, I’m Aditya Vishwakarma.
 -  I am for a longest time been working on my ideas and want them to manifest and evolve them into reality (inventions and innovations).
 - 👀 I’m interested in working on my ideas and enjoy it. A lot of my ideas are on drawing borad and are only conceptualized.
 - 🌱 I’m currently learning various new topics related to technology, coding and various fields that I find interesting. I'm a math enthusiast and and have done some of my works in number theory.
