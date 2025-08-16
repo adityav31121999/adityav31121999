@@ -11,6 +11,6 @@ adityav31121999/adityav31121999 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-- My ongoing projects are:
+- My ongoing projects 🧑‍💻 are:
   - gLLM
   - MonoNN
