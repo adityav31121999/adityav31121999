@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - My ongoing projects 🧑‍💻 are:
+  - Divided Context Architecture (DCA) for Long Context LLMs
   - tokeniser (bpe)
-  - gLLM
+  - gLLM (DCA Implementation)
   - MonoNN
+  - Morphers
