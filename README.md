@@ -9,5 +9,6 @@
   - Divided Context Architecture (DCA) for Long Context LLMs
   - tokeniser (bpe)
   - gLLM (DCA Implementation)
+  - ViT-CC
   - MonoNN
   - Morphers
