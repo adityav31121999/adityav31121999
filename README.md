@@ -3,14 +3,15 @@
 - 👀 I’m interested in working on my ideas and I enjoy it. A lot of my ideas are on drawing borad and are only conceptualized.
 - 🌱 I’m currently learning various new topics related to technology, coding and various fields that I find interesting. I'm a math enthusiast and and have done some of my works in number theory.
 - 💞️ I’m not much into collaboration. I like to do things on my own. But, you can modify my work and use it.
-- 📫 If you want to reach me, use my email adityav31121999@gmail.com. My alternate mail account is adityav31121999@mail.com, and preferable is Gmail one.
+- 📫 If you want to reach me, here is my email adityav31121999@zohomail.in.
 
 - My ongoing projects 🧑‍💻 are:
-  - Divided Context Architecture (DCA) for Long Context LLMs
+  - Divided Context Architecture (DCA) for Long Context LLMs and gLLM (DCA Implementation)
   - tokeniser (bpe)
-  - gLLM (DCA Implementation)
   - ViT-CC
   - MonoNN
+
+- In concepts:
   - Morphers
 
 - IMP:
