@@ -6,13 +6,14 @@
 - 📫 If you want to reach me, here is my email adityav31121999@zohomail.in.
 
 - My ongoing projects 🧑‍💻 are:
-  - Divided Context Architecture (DCA) for Long Context LLMs and gLLM (DCA Implementation)
-  - tokeniser (bpe)
-  - ViT-CC
-  - MonoNN
+  - Work In Progress
+    - Divided Context Architecture (DCA) for Long Context LLMs and gLLM (DCA Implementation)
+    - tokeniser (bpe)
+    - ViT-CC
+    - MonoNN
 
-- In concepts:
-  - Morphers
+  - In concepts:
+    - Morphers
 
 - IMP:
   - WHEN I FEEL LIKE THERE IS NEED OF FAST ERROR RESOLUTION AND WHEN I DON'T KNOW A CONCEPT I VIBE CODE AND IN PROCESS LEARN THOSE CONCEPTS TOO. Hence, sometimes after learning and experimenting these concepts, i modify them to my needs and then use them.
