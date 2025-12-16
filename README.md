@@ -3,7 +3,7 @@
 - 👀 I’m interested in working on my ideas and I enjoy it. A lot of my ideas are either concepts or work-in-progress.
 - 🌱 I’m currently learning various new topics related to technology, coding and various fields that I find interesting or I am curious about. I'm an enthusiast (mostly for maths, physics anc computation) and and have done some of my works in number theory.
 - 💞️ I’m not much into collaboration. I like to do things on my own. But, you can modify my work and use it.
-- 📫 If you want to reach me, here is my email adityav31121999@zohomail.in.
+- 📫 If you want to reach me, here is my email adityav31121999@zohomail.in and adityavishwakarma@dvyamsha.in.
 
 - My projects 🧑‍💻 are:
   - Work In Progress
