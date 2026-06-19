@@ -13,9 +13,13 @@
       - editLaTeX
   - Work-In-Progress:
     - gLLM
-    - matrix library
+    - MonoNN
+    - matrix
+  - Concepts (private repositories):
     - AgenticIR
+    - Bit-shift floats 
 
+- Papers repository contains some of my ideas and recreational works
 - IMP:
   - WHEN I FEEL LIKE THERE IS NEED OF FAST ERROR RESOLUTION AND WHEN I DON'T KNOW A CONCEPT I VIBE CODE AND IN PROCESS LEARN THOSE CONCEPTS TOO. Hence, sometimes after learning and experimenting these concepts, i modify them to my needs and then use them.
   - I code mainly with C, C++, hence else I use AI for it.
