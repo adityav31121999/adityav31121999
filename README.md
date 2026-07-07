@@ -23,3 +23,4 @@
 - IMP:
   - WHEN I FEEL LIKE THERE IS NEED OF FAST ERROR RESOLUTION AND WHEN I DON'T KNOW A CONCEPT I VIBE CODE AND IN PROCESS LEARN THOSE CONCEPTS TOO. Hence, sometimes after learning and experimenting these concepts, i modify them to my needs and then use them.
   - I code mainly with C, C++, hence else I use AI for it.
+- This is my github pages to keep blogs and other stuff: https://adityav31121999.github.io/adiv31121999/
