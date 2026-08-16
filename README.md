@@ -6,22 +6,26 @@
 - 📫 If you want to reach me, here is my email adityav31121999@zohomail.in and adityavishwakarma@dvyamsha.in.
 
 - My projects 🧑‍💻 are:
-  - Completed:
-    - Vibe Coded
-      - editLaTeX
-      - hellothere
   - Work-In-Progress:
     - matrix
     - AgentLib
+    - ADEngine
     - MicroCosm
+  - Concepts
+    - papers
+    - Focus-Retention Architecture
+  - Completed:
+    - 
+  - Miscellaneous:
+    - editLaTeX (vibe coded)
+    - hellothere (vibe coded)
+    - primes (vibe coded)
+    - MLP
   - Archived:
     - gLLM
     - MonoNN
     - float12 (vibe coded)
     - tokeniser (bpe, vibe coded)
-  - Concepts
-    - papers
-    - Focus-Retention Architecture
 
 - Papers repository contains some of my ideas and recreational works
 - IMP:
